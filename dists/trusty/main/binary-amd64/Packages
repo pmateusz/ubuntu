@@ -7,9 +7,9 @@ Maintainer: mateusz.polnik at strath.ac.uk
 Priority: optional
 Section: devel
 Filename: pool/main/o/or-tools/or-tools_6.0_amd64.deb
-Size: 29456854
-SHA256: e6efbe6eaa2acc4a783d9502794e9ef4bb529dc7b0751839ddacd00b80d3e0d7
-SHA1: fcfc1e5fe4bd91b137a2775e9b7102e441ceac6a
-MD5sum: 5a88652dde2708a950dd9c00d67ad482
+Size: 29456768
+SHA256: c1fa3621b616e6649bd2f626f6f703f6809f2ba2ae6e0fbfca6c82df1a49fb29
+SHA1: b599a4604ae7a4d324d474028c6c6627765ef2ba
+MD5sum: 1442b5819b23615223dc3330127721da
 Description: Google Optimization Tools
 
