@@ -1,0 +1,8 @@
+Origin: pmateusz.github.io/ubuntu
+Label: pmateusz.github.io/ubuntu
+Codename: trusty
+Architectures: amd64
+Components: main
+Description: Personal repository
+SignWith: B2323F7E
+

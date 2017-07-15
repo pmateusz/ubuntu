@@ -1,0 +1,15 @@
+Package: or-tools
+Version: 6.0
+Architecture: amd64
+Depends: git (>= 1:2.1.4), bison (>= 2:3.0.2), flex (>= 2.5.39), python-setuptools (>= 3.3.8), python-dev (>= 2.7.9), autoconf (>= 2.69), libtool (>= 2.4.2), zlib1g-dev (>= 1:1.2.8), texinfo (>= 5.2.0), help2man (>= 1.46.4), gawk (>= 1:4.1.1), g++ (>= 4:4.9), curl (>= 7.38.0), texlive, cmake (>= 3.0.2), subversion (>= 1.8.10)
+Installed-Size: 116419
+Maintainer: mateusz.polnik at strath.ac.uk
+Priority: optional
+Section: devel
+Filename: pool/main/o/or-tools/or-tools_6.0_amd64.deb
+Size: 29456752
+SHA256: 874edc95a637e0a453b4a7c097e268802f415d2f94816dbe016dd942cc3bf8aa
+SHA1: 2fdfbefd6836bac6aeb133f9a972c971081f3247
+MD5sum: 1aa230caddc8ef1b353f9af84aff0b1f
+Description: Google Optimization Tools
+
