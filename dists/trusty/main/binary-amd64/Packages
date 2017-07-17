@@ -29,15 +29,15 @@ Description: C++ implementation of the Google logging module
 Package: libgtest-dev
 Version: 1.8.0
 Architecture: amd64
-Installed-Size: 1828
+Installed-Size: 6916
 Maintainer: mateusz.polnik at strath.ac.uk
 Priority: optional
 Section: devel
 Filename: pool/main/libg/libgtest-dev/libgtest-dev_1.8.0_amd64.deb
-Size: 146390
-SHA256: 84597923f8dabac66c2aed639898b05d795868aecb1ea3b8e37b57576ac173fa
-SHA1: 8d4cf5bcd46ff9b844e834c9bbe07dfb3f339f14
-MD5sum: 2c1ea5cf196fc25da82ad06626f7eece
+Size: 1090160
+SHA256: 8497bf1986ccddd48f6aa273b8b5acb2e014aa06ddef7712d0a210abacd7606e
+SHA1: b6acba0b23032d9708123024b7cc3ad692785889
+MD5sum: 862afd1c91bca7f28cc5dc5213ee4277
 Description: Google's C++ test framework
 
 Package: libortools-dev
@@ -54,4 +54,18 @@ SHA256: 251b6906af002c838590f51f5afca4dfd4fc355b13a248a014949f83de4014dc
 SHA1: 8fe60132d01827c22c7453d7d3b539d1a270e684
 MD5sum: 7aa754e181af7bb220ddd962eb4695fc
 Description: Google Optimization Tools
+
+Package: libsparsehash-dev
+Version: 2.0.3
+Architecture: amd64
+Installed-Size: 615
+Maintainer: mateusz.polnik at strath.ac.uk
+Priority: optional
+Section: devel
+Filename: pool/main/libs/libsparsehash-dev/libsparsehash-dev_2.0.3_amd64.deb
+Size: 127774
+SHA256: cb6a40f255c4b225aba7f7be7328cb8704a15ec4a41eadbe09c60d0e73261e71
+SHA1: d61b112e0756cc1b3180cba440caeb9d7c9a4337
+MD5sum: 12d373c95df67066a55fffaabb0b9ba3
+Description: C++ associative containers
 
