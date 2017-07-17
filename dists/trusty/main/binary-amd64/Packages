@@ -40,18 +40,18 @@ SHA1: 8d4cf5bcd46ff9b844e834c9bbe07dfb3f339f14
 MD5sum: 2c1ea5cf196fc25da82ad06626f7eece
 Description: Google's C++ test framework
 
-Package: or-tools
+Package: libortools-dev
 Version: 6.0
 Architecture: amd64
 Depends: git (>= 1:1.9.1), bison (>= 2:3.0.2), flex (>= 2.5.35), python-setuptools (>= 3.3), python-dev (>= 2.7.0), autoconf (>= 2.69), libtool (>= 2.4.2), zlib1g-dev (>= 1:1.2.8), texinfo (>= 5.2.0), help2man (>= 1.44.0), gawk (>= 1:4.0), g++ (>= 4:4.8.0), curl (>= 7.35.0), texlive, cmake3 (>= 3.5.0), subversion (>= 1.8.0)
-Installed-Size: 116419
+Installed-Size: 114691
 Maintainer: mateusz.polnik at strath.ac.uk
 Priority: optional
 Section: devel
-Filename: pool/main/o/or-tools/or-tools_6.0_amd64.deb
-Size: 29456768
-SHA256: c1fa3621b616e6649bd2f626f6f703f6809f2ba2ae6e0fbfca6c82df1a49fb29
-SHA1: b599a4604ae7a4d324d474028c6c6627765ef2ba
-MD5sum: 1442b5819b23615223dc3330127721da
+Filename: pool/main/libo/libortools-dev/libortools-dev_6.0_amd64.deb
+Size: 29105054
+SHA256: 251b6906af002c838590f51f5afca4dfd4fc355b13a248a014949f83de4014dc
+SHA1: 8fe60132d01827c22c7453d7d3b539d1a270e684
+MD5sum: 7aa754e181af7bb220ddd962eb4695fc
 Description: Google Optimization Tools
 
