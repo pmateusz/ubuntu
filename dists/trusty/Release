@@ -1,19 +1,19 @@
 Origin: pmateusz.github.io/ubuntu
 Label: pmateusz.github.io/ubuntu
 Codename: trusty
-Date: Mon, 17 Jul 2017 17:27:46 UTC
+Date: Mon, 31 Jul 2017 22:24:59 UTC
 Architectures: amd64
 Components: main
 Description: Personal repository
 MD5Sum:
- e79e5ae0313ca1518aeb3159f6a8b25f 2594 main/binary-amd64/Packages
- aef1128e6ec6c6f093b3b75674cf5349 1120 main/binary-amd64/Packages.gz
+ 5590d572a0b49b01b96e14d1096ee753 2594 main/binary-amd64/Packages
+ 9e545ae868e7f10223b99aa58f9ce067 1118 main/binary-amd64/Packages.gz
  2607cafbd991b5cc5a1fbf3e63f52e4a 136 main/binary-amd64/Release
 SHA1:
- 72f2d7af09369b0c577cb504d83b88598a8c8872 2594 main/binary-amd64/Packages
- ae4b767dd7c08be824a78a3234b26b219ec5f414 1120 main/binary-amd64/Packages.gz
+ 837e1a82042f53c4baf9c6784eadec8bc6d15b94 2594 main/binary-amd64/Packages
+ d71972932947b167ce4701f28dbc2a9835ed3230 1118 main/binary-amd64/Packages.gz
  6f20c4f24f100e820f9b7eb1d8fa2301397b5641 136 main/binary-amd64/Release
 SHA256:
- 45546ff35a2e94056ddc4ae33efef763045bb3c9624fcfa3f49421f1a6e9d557 2594 main/binary-amd64/Packages
- 45ec2d2cce93d7ce7532abf955cffd71390ad8daefe40d5f08ab6906b18ac94b 1120 main/binary-amd64/Packages.gz
+ e78aa43c47e600aacb174a7b991bbe132040e69527c67003993fe19c1645e7d9 2594 main/binary-amd64/Packages
+ 40fd9f1ac99ba8f138810c457b7563d6d9811dd2b12c72aee4014b20028d80d1 1118 main/binary-amd64/Packages.gz
  4fad85d6c94cd98df93ec87c15fe24c40cd23eab7c5ede72372ce8575816f8b2 136 main/binary-amd64/Release

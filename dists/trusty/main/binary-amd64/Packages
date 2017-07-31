@@ -44,15 +44,15 @@ Package: libortools-dev
 Version: 6.2
 Architecture: amd64
 Depends: git (>= 1:1.9.1), bison (>= 2:3.0.2), flex (>= 2.5.35), python-setuptools (>= 3.3), python-dev (>= 2.7.0), autoconf (>= 2.69), libtool (>= 2.4.2), zlib1g-dev (>= 1:1.2.8), texinfo (>= 5.2.0), help2man (>= 1.44.0), gawk (>= 1:4.0), g++ (>= 4:4.8.0), curl (>= 7.35.0), texlive, subversion (>= 1.8.0)
-Installed-Size: 114691
+Installed-Size: 117443
 Maintainer: mateusz.polnik at strath.ac.uk
 Priority: optional
 Section: devel
 Filename: pool/main/libo/libortools-dev/libortools-dev_6.2_amd64.deb
-Size: 29104986
-SHA256: 33e507ef28e7deb1ec000b61b02b01eede60c815f33012aa9bba851f28568a1b
-SHA1: fe9562cf13db7c139b0c1380bb702352b274c7d9
-MD5sum: 52521d2b384292e74d7c0cf5efa381f8
+Size: 30107250
+SHA256: 977c67271c02758a397d2c908e266925ec5707dc728c39504af51b974a7d31f3
+SHA1: bd06630051f8af24cc77079d31f82586eadf7da2
+MD5sum: 4e76188d3f008dced9bba3306734b40a
 Description: Google Optimization Tools
 
 Package: libsparsehash-dev
