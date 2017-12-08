@@ -1,3 +1,17 @@
+Package: cmake
+Version: 3.8.2
+Architecture: amd64
+Installed-Size: 36516
+Maintainer: cmake@cmake.org
+Priority: optional
+Section: devel
+Filename: pool/main/c/cmake/cmake_3.8.2_amd64.deb
+Size: 11187262
+SHA256: cceeccc0227e407602950d5f98bc37c53a3ec6389a2c19a20fc325ae1c50d7df
+SHA1: 1f1e90df1bf8f3e009c2b129d9a60fb710cad090
+MD5sum: 5803024b73fa598a8fa4cac61b89b9c0
+Description: CMake is a build tool
+
 Package: libgflags-dev
 Version: 2.1.2
 Architecture: amd64
